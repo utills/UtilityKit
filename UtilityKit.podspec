@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 'In development phase.Please donot use it for production'
                        DESC
 
-  s.homepage         = 'https://github.com/ervivek40/UtilityKit'
+  s.homepage         = 'https://github.com/utills/UtilityKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Vivek Kumar' => 'ervivek40@gmail.com' }
