@@ -1,0 +1,16 @@
+PODS:
+  - UtilityKit (0.1.48)
+
+DEPENDENCIES:
+  - UtilityKit (from `../`)
+
+EXTERNAL SOURCES:
+  UtilityKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UtilityKit: 4f084459cb068d7f0f7d6ff5eee441851e7120c0
+
+PODFILE CHECKSUM: 04a73a68f4dcd50d0a86b8136e98240edbf87fd2
+
+COCOAPODS: 1.8.4

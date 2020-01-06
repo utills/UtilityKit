@@ -1,0 +1,25 @@
+{
+  "name": "Utility",
+  "version": "0.1.0",
+  "summary": "Written to facilitate development Work.",
+  "description": "'In development phase.Please donot use it for production'",
+  "homepage": "https://github.com/ervivek40/Utility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vivek Kumar": "ervivek40@gmail.com"
+  },
+  "source": {
+    "path": "../"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Utility/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}
